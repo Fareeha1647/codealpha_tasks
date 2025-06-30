@@ -46,6 +46,7 @@ Calculates the **Cumulative Grade Point Average (CGPA)**:
    git clone https://github.com/Fareeha1647/codealpha_tasks.git
 2. g++ banking\ system.cpp -o banking_system
 ./banking_system
+----
 📌 Author
 GitHub: [Fareeha1647](https://github.com/Fareeha1647)  
 Internship: CodeAlpha 
